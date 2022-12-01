@@ -1,6 +1,6 @@
 ### Hi there 👋
 :relaxed: I'm Amber Wilson.
-- :dizzy: I’m currently enrolled in Vanderbilt University's Full-Stack Coding Boot Camp with a Jan. 2024 completion date.
+- :dizzy: I’m currently enrolled in Vanderbilt University's Full-Stack Coding Boot Camp with a Jan. 2024 completion date. JavaScript, HTML, CSS3, Node.js, MERN
 - :dart: Right now I'm learning MERN. Express :hammer: Node :hammer: MongoDB :hammer: Up next: React
 - ⚡ Fun fact: I love taking solo adventure trips. My last one was 4-days backpacking the Grand Canyon rim-to-rim.
 <!--
