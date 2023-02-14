@@ -1,7 +1,7 @@
 ### Hi there 👋
 :relaxed: I'm Amber Wilson.
 - :dizzy: I’m an entrepreneur, seasoned at translating between business users and internal teams.
-- :dart: Skilled in MERN stack, right now I am learning Vue.
+- :dart: Skilled in MERN stack, right now I am learning AWS.
 - :rocket: You can find all of my recent projects here: https://awil414.github.io/Portfolio/
 - :mailbox_with_mail: Reach me at: amber.wilson.code@gmail.com
 - ⚡ Fun fact: I love taking solo adventure trips. My last one was 4-days backpacking the Grand Canyon rim-to-rim :sunrise_over_mountains:.
