@@ -1,6 +1,6 @@
 ### Hi there 👋
 :relaxed: I'm Amber Wilson.
-- :dizzy: I’m an entrepreneur, seasoned at translating between business users and internal teams.
+- :dizzy: I’m a full stack developer and entrepreneur, seasoned at problem-solving and translating between business users and internal teams.
 - :dart: Skilled in MERN stack and GraphQL, right now I am learning AWS for certification + .NET
 - :rocket: You can find all of my recent projects here: https://awil414.github.io/Portfolio/
 - :mailbox_with_mail: Reach me at: amber.wilson.code@gmail.com
